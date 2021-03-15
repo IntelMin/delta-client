@@ -1,0 +1,690 @@
+{
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/7.js"
+    }
+  ],
+  "./en/common": [
+    {
+      "id": "./locales/en/common.json",
+      "file": "static/chunks/0.js"
+    }
+  ],
+  "./en/common.json": [
+    {
+      "id": "./locales/en/common.json",
+      "file": "static/chunks/0.js"
+    }
+  ],
+  "./en/home": [
+    {
+      "id": "./locales/en/home.json",
+      "file": "static/chunks/1.js"
+    }
+  ],
+  "./en/home.json": [
+    {
+      "id": "./locales/en/home.json",
+      "file": "static/chunks/1.js"
+    }
+  ],
+  "./fortmatic-0568efcb.js": [
+    {
+      "id": "./node_modules/use-wallet/dist/fortmatic-0568efcb.js",
+      "file": "static/chunks/9.js"
+    }
+  ],
+  "./index-1d2649b8.js": [
+    {
+      "id": "./node_modules/use-wallet/dist/_crypto_commonjs-external-1a228943.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/_url_commonjs-external-af75b180.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/_util_commonjs-external-6c254708.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/index-1d2649b8.js",
+      "file": "static/chunks/4.js"
+    }
+  ],
+  "./index-a004146a.js": [
+    {
+      "id": "./node_modules/use-wallet/dist/_crypto_commonjs-external-1a228943.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/_url_commonjs-external-af75b180.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/index-a004146a.js",
+      "file": "static/chunks/5.js"
+    }
+  ],
+  "./index-b6b58529.js": [
+    {
+      "id": "./node_modules/ethereumjs-util/dist/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-util/dist/secp256k1-adapter.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-util/dist/secp256k1-lib/der.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/ethereumjs-util/dist/secp256k1-lib/index.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/_crypto_commonjs-external-1a228943.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/_util_commonjs-external-6c254708.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/index-77f376c4.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/index-b6b58529.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/subscriptionManager-0493518a.js",
+      "file": "static/chunks/3.js"
+    }
+  ],
+  "./index-c6f22609.js": [
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/abi-coder.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/abstract-coder.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/address.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/anonymous.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/array.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/boolean.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/bytes.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/fixed-bytes.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/null.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/number.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/string.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/coders/tuple.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/fragments.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abi/lib.esm/interface.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abstract-provider/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abstract-provider/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abstract-signer/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/abstract-signer/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/address/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/address/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/base64/lib.esm/base64.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/base64/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/basex/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/bignumber/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/bignumber/lib.esm/bignumber.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/bignumber/lib.esm/fixednumber.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/bignumber/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/bytes/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/bytes/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/constants/lib.esm/addresses.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/constants/lib.esm/bignumbers.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/constants/lib.esm/hashes.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/constants/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/constants/lib.esm/strings.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/contracts/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/contracts/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/hash/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/hash/lib.esm/id.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/hash/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/hash/lib.esm/message.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/hash/lib.esm/namehash.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/hash/lib.esm/typed-data.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/hdnode/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/hdnode/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/json-wallets/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/json-wallets/lib.esm/crowdsale.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/json-wallets/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/json-wallets/lib.esm/inspect.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/json-wallets/lib.esm/keystore.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/json-wallets/lib.esm/utils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/keccak256/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/logger/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/logger/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/networks/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/networks/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/pbkdf2/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/pbkdf2/lib.esm/pbkdf2.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/properties/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/properties/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/alchemy-provider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/base-provider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/cloudflare-provider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/etherscan-provider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/fallback-provider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/formatter.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/infura-provider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/ipc-provider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/json-rpc-provider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/nodesmith-provider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/pocket-provider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/url-json-rpc-provider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/web3-provider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/websocket-provider.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/providers/lib.esm/ws.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/random/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/random/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/random/lib.esm/random.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/random/lib.esm/shuffle.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/rlp/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/rlp/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/lib.esm/sha2.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/lib.esm/types.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/node_modules/hash.js/lib/hash.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/node_modules/hash.js/lib/hash/common.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/node_modules/hash.js/lib/hash/hmac.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/node_modules/hash.js/lib/hash/ripemd.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/node_modules/hash.js/lib/hash/sha.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/node_modules/hash.js/lib/hash/sha/1.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/node_modules/hash.js/lib/hash/sha/224.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/node_modules/hash.js/lib/hash/sha/256.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/node_modules/hash.js/lib/hash/sha/384.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/node_modules/hash.js/lib/hash/sha/512.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/node_modules/hash.js/lib/hash/sha/common.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/sha2/node_modules/hash.js/lib/hash/utils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/signing-key/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/signing-key/lib.esm/elliptic.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/signing-key/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/solidity/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/strings/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/strings/lib.esm/bytes32.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/strings/lib.esm/idna.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/strings/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/strings/lib.esm/utf8.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/transactions/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/transactions/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/units/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/units/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wallet/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wallet/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/web/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/web/lib.esm/geturl.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/web/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-cz.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-en.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-es.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-fr.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-it.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-ja.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-ko.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/lang-zh.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/wordlist.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@ethersproject/wordlists/lib.esm/wordlists.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/aes-js/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/bech32/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethers/lib.esm/_version.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethers/lib.esm/ethers.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethers/lib.esm/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/ethers/lib.esm/utils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/_crypto_commonjs-external-1a228943.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/_util_commonjs-external-6c254708.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/index-77f376c4.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/index-c6f22609.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/subscriptionManager-0493518a.js",
+      "file": "static/chunks/2.js"
+    }
+  ],
+  "./torus.cjs-c0df7a64.js": [
+    {
+      "id": "./node_modules/use-wallet/dist/index-77f376c4.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/use-wallet/dist/torus.cjs-c0df7a64.js",
+      "file": "static/chunks/6.js"
+    }
+  ],
+  "squarelink": [
+    {
+      "id": "./node_modules/squarelink/lib/squarelink.min.js",
+      "file": "static/chunks/8.js"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "name": "delta-www",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "./",
+  "scripts": {
+    "dev": "cross-env NODE_OPTIONS='--inspect' next dev",
+    "build": "next build",
+    "start": "next start && next export",
+    "export": "next export",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "postinstall": "husky install"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": "eslint --cache --fix"
+  },
+  "dependencies": {
+    "@react-hook/copy": "^2.0.1",
+    "@rehooks/local-storage": "^2.4.0",
+    "@windmill/react-ui": "^0.5.0",
+    "autoprefixer": "^10.1.0",
+    "bignumber.js": "^9.0.0",
+    "classnames": "^2.2.6",
+    "ethereum-block-by-date": "^1.2.5",
+    "ethers": "^5.0.31",
+    "js-cookie": "^2.2.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "next": "10.0.4",
+    "next-absolute-url": "^1.2.2",
+    "next-compose-plugins": "^2.2.1",
+    "next-fonts": "^1.5.1",
+    "next-images": "^1.7.0",
+    "next-seo": "^4.19.0",
+    "next-translate": "^1.0.2",
+    "postcss": "^8.2.2",
+    "react": "17.0.1",
+    "react-countdown": "^2.3.1",
+    "react-device-detect": "^1.15.0",
+    "react-dom": "17.0.1",
+    "react-focus-lock": "^2.5.0",
+    "react-moment": "^1.1.1",
+    "react-use-localstorage": "^3.5.3",
+    "styled-components": "^5.2.0",
+    "tailwindcss": "^2.0.2",
+    "use-wallet": "^0.8.0",
+    "victory": "^35.4.9",
+    "web3": "1.2.11"
+  },
+  "devDependencies": {
+    "babel-eslint": "9.0.0",
+    "cross-env": "^7.0.3",
+    "eslint": "6.1.0",
+    "eslint-config-airbnb": "18.0.0",
+    "eslint-config-nextjs": "1.0.6",
+    "eslint-config-prettier": "4.1.0",
+    "eslint-plugin-html": "5.0.3",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "6.2.3",
+    "eslint-plugin-prettier": "3.0.1",
+    "eslint-plugin-react": "7.14.2",
+    "husky": "^5.0.6",
+    "lint-staged": "^10.5.3",
+    "prettier": "1.16.4"
+  }
+}
